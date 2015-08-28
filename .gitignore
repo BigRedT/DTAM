@@ -1,0 +1,14 @@
+build/
+dtam/
+nbproject/
+*.nvvp
+.cproject
+.project
+.settings/
+*.o
+*.out
+*~
+*.kdev*
+*kate-swp*
+TOOLBOX_calib\ 2/
+testims/
